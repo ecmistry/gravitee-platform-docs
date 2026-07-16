@@ -96,6 +96,7 @@
     * [Implement BFF pattern (with a Shared Policy Group)](how-to-guides/use-case-tutorials/implement-bff-pattern-with-a-shared-policy-group.md)
     * [Configure an MCP-Proxy with the OAuth plan and Entra ID](how-to-guides/use-case-tutorials/secure-a-mcp-proxy-with-entra-id-oauth.md)
     * [Monitor APIM with Prometheus and Grafana using Docker Compose](how-to-guides/use-case-tutorials/monitor-apim-with-prometheus-and-grafana.md)
+  * [Configure Mtls For Native Kafka Apis](how-to-guides/use-case-tutorials/configure-mtls-for-native-kafka-apis.md)
 * [Configure & Manage the Platform](configure-and-manage-the-platform/README.md)
   * [Gravitee Gateway](configure-and-manage-the-platform/gravitee-gateway/README.md)
     * [Configuring Global Redaction Rules](configure-and-manage-the-platform/gravitee-gateway/configuring-global-redaction-rules.md)
